@@ -16,5 +16,6 @@ func main() {
 	s4 := puppy.BigBarks()
 	fmt.Println(s3)
 	fmt.Println(s4)
+	fmt.Println("version 1.0.0")
 
 }
