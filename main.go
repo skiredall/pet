@@ -18,5 +18,6 @@ func main() {
 	fmt.Println(s4)
 	fmt.Println("version 1.0.0")
 	fmt.Println("version 1.1.0")
+	fmt.Println("version 1.2.0")
 
 }
